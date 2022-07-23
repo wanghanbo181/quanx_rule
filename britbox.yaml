@@ -1,0 +1,21 @@
+# NAME: Britbox Uk
+USER-AGENT,Britbox*,Britbox Uk
+DOMAIN-SUFFIX,britbox.com,Britbox Uk
+DOMAIN-SUFFIX,bbc.co.uk,Britbox Uk
+DOMAIN,d2z3p34itxwaj7.cloudfront.net,Britbox Uk
+DOMAIN-SUFFIX,britbox.co.uk,Britbox Uk
+DOMAIN-SUFFIX,magni.itv.com,Britbox Uk
+DOMAIN-SUFFIX,raygun.com,Britbox Uk
+DOMAIN-SUFFIX,bb-static.com,Britbox Uk
+DOMAIN-SUFFIX,appsflyer.com,Britbox Uk
+DOMAIN-SUFFIX,braze.eu,Britbox Uk
+DOMAIN,itv.com,Britbox Uk
+
+# NAME: Britbox
+##USER-AGENT,Britbox*
+PROCESS-NAME,com.britbox.us,Britbox
+DOMAIN-SUFFIX,britbox.com,Britbox
+DOMAIN,d2z3p34itxwaj7.cloudfront.net,Britbox
+DOMAIN-KEYWORD,ntham-comm,Britbox
+DOMAIN-KEYWORD,au-comm,Britbox
+DOMAIN-KEYWORD,za-comm,Britbox
